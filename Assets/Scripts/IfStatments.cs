@@ -67,10 +67,7 @@ public class IfStatments : MonoBehaviour
             {
                 Debug.Log("you are a Wizard harry");
             }
-        }
-
-        
-    }
+       }
 
     // Update is called once per frame
     void Update()
@@ -78,3 +75,4 @@ public class IfStatments : MonoBehaviour
         
     }
 }
+
